@@ -24,7 +24,7 @@ The dataset comprises two sets:
 Columns in the dataset include:
 
 - Airline: The airline name.
-- - Date_of_Journey: The date of the flight journey.
+- Date_of_Journey: The date of the flight journey.
 - Source: The departure location.
 - Destination: The arrival location.
 - Route: The flight route.
